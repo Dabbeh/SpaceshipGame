@@ -1,0 +1,3 @@
+C:/Users/enaya/Desktop/SpaceshipGame/cmake-build-debug/CMakeFiles/SpaceshipGame.dir
+C:/Users/enaya/Desktop/SpaceshipGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/enaya/Desktop/SpaceshipGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
