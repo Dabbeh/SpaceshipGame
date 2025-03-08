@@ -50,4 +50,9 @@ bin/sfml-*.dll
 # Ignore operating system specific files
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 >>>>>>> master
+=======
+SpaceshipGame/
+
+>>>>>>> 304c0f4 (Add README.md file and other changes)
