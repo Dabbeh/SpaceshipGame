@@ -30,7 +30,7 @@ make
 4. Run the Game: After building, you can run the game executable in the bin/ directory.
 
 ## How to Play
-- **Use the arrow keys or WASD keys to move your spaceship.
+- **Use the arrow keys to move your spaceship.
 - **Press Space to shoot.
 - **Avoid hitting meteors and defeat enemies to increase your score.
 - **Try to survive as long as possible and get the highest score!
