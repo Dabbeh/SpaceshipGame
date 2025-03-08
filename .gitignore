@@ -1,0 +1,18 @@
+# Ignore the build folder
+cmake-build-debug/
+cmake-build-release/
+
+# Ignore the binary folder and executable
+bin/
+SpaceshipGame.exe
+
+# Ignore SFML DLL files
+bin/sfml-*.dll
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore operating system specific files
+.DS_Store
+Thumbs.db
