@@ -45,5 +45,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 SFML for the game framework
 C++ for the game logic
 
-
-This README file will guide anyone who wants to use or contribute to your project.
