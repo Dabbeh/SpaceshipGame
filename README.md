@@ -22,10 +22,10 @@ git clone https://github.com/Dabbeh/SpaceshipGame.git
 2. Install SFML: Follow the official SFML setup guide for your system: https://www.sfml-dev.org/tutorials/3.0/getting-started/visual-studio/
 
 3. Build the Game: Navigate to the project directory and use CMake to configure and generate the build files. Then, compile the game using your C++ compiler.
-mkdir build
-cd build
-cmake ..
-make
+- mkdir build
+- cd build
+- cmake 
+- make
 
 4. Run the Game: After building, you can run the game executable in the bin/ directory.
 
