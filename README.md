@@ -30,13 +30,13 @@ make
 4. Run the Game: After building, you can run the game executable in the bin/ directory.
 
 ## How to Play
-- **Use the arrow keys to move your spaceship.
-- **Press Space to shoot.
-- **Avoid hitting meteors and defeat enemies to increase your score.
-- **Try to survive as long as possible and get the highest score!
+- Use the arrow keys to move your spaceship.
+- Press Space to shoot.
+- Avoid hitting meteors and defeat enemies to increase your score.
+- Try to survive as long as possible and get the highest score!
 
 ## Contributing
-- **Feel free to fork the repository and submit pull requests. If you find any bugs or want to suggest new features, open an issue!
+- Feel free to fork the repository and submit pull requests. If you find any bugs or want to suggest new features, open an issue!
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
